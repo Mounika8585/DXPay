@@ -1,4 +1,4 @@
-Live demo : https://www.dxpay.netlify.app
+Live demo : https://dxpay.netlify.app/
 
 # Getting Started with Create React App
 
